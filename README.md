@@ -5,7 +5,7 @@
 
 ## [2. 발표 영상]("Presentation Link")<br/>
 
-## [3. PDF 파일](https://github.com/SukyungJang/Store_Sales_Project/blob/main/pdf/Attention_final.pdf "PDF Link")<br/>
+## [3. PDF 파일](https://github.com/YOUSUBEEN/final_project/blob/main/img/%EC%B6%A9%EC%B2%AD%EA%B6%8C%20%EB%8F%84%EC%8B%9C%EC%96%91%EA%B7%B9%ED%99%94.pdf "PDF Link")<br/>
 
 ---
 
